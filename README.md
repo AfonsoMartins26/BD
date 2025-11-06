@@ -4,7 +4,7 @@ A relational database for a detective agency. Project for UMinho's Databases 202
 
 See the attached `BD/` folder for file contents and supporting scripts.
 
-Final Grade: 17/20
+Final Grade: 17/20⭐
 
 ## Summary
 
