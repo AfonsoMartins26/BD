@@ -4,6 +4,8 @@ A relational database for a detective agency. Project for UMinho's Databases 202
 
 See the attached `BD/` folder for file contents and supporting scripts.
 
+Final Grade: 17/20
+
 ## Summary
 
 This repository contains SQL, migration scripts, CSV/JSON sample data and small Python parsers used to build and populate a relational database for a detective agency as part of the UMinho Databases course (2024/25).
